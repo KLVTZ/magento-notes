@@ -1,6 +1,4 @@
 Magento Notes
 =============
 
-Notes while working with TutsPlus course
-
-*July 2014*
+Notes while working with Magento Dev Guide and Tutsplus
